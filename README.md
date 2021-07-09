@@ -1,6 +1,6 @@
 # ncnn_Android_human
 Android hair/human segmentation demo by ncnn  
-PS:performance maybe poor.it's just a demo:) 
+PS:performance maybe poor.it's just a demo:)   
 __TODO:__
 __1.real time human segmentation model__  
 __2.better performance hair model__  
